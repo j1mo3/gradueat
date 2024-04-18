@@ -1,0 +1,1 @@
+./deployService.sh -k C:/Users/james/Downloads/gradueat-production.pem -h gradueat.com
